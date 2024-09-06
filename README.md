@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/background%20github.jpg" alt="Background Image">
+  <video width="100%" height="auto" controls loop autoplay muted>
+    <source src="assets/stablevideo_f2e858c4-7d16-4d9e-b426-efd04ac469cb.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 # 💫 About Me:
 - 🌱 Currently learning Java Full Stack development at QSpider Noida.<br>- 🔭 Working on projects in core Java, advanced Java (JDBC, Hibernate, Spring Boot), and web technologies (HTML, CSS, JavaScript, Bootstrap, React, MongoDB, MySQL, Express.js).<br>- 🎓 M.Tech in Engineering Systems with Specialized Computer Science from Dayalbagh Educational Institute, Agra.<br>- 💼 Seeking opportunities in Full Stack Development and AI/ML.
