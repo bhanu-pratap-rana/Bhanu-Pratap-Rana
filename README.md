@@ -1,5 +1,3 @@
-Welcome to my awesome project! Below is the background image.
-
 <p align="center">
   <img src="assets/background%20github.jpg" alt="Background Image">
 </p>
