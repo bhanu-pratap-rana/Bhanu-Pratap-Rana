@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-- 🌱 Currently learning Java Full Stack development at QSpider Noida.<br>- 🔭 Working on projects in core Java, advanced Java (JDBC, Hibernate, Spring Boot), and web technologies (HTML, CSS, JavaScript, Bootstrap, React, MongoDB, MySQL, Express.js).<br>- 🎓 M.Tech in Engineering Systems with Specialized Computer Science from Dayalbagh Educational Institute, Agra.<br>- 💼 Seeking opportunities in Full Stack Development and AI/ML.
+- 🌱 Currently learning Java Full Stack development at QSpider Noida.<br>- 🔭 Working on projects in core Java, and web technologies (HTML, CSS, JavaScript, Bootstrap, React, MongoDB, MySQL, Express.js).<br>- 🎓 M.Tech in Engineering Systems with Specialized Computer Science from Dayalbagh Educational Institute, Agra.<br>- 💼 Seeking opportunities in Full Stack Development and AI/ML.
 
 
 ## 🌐 Socials:
